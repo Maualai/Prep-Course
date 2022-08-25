@@ -7,9 +7,28 @@ img {
 }
 
 #thirdDiv {
-    height: 600px; width: 500px; background-color: antiquewhite; padding: 50px; border: 10px solid coral; 
+    height: 600px; 
+    width: 500px; 
+    background-color: antiquewhite; 
+    padding: 50px; 
+    border: 10px solid coral; 
 }
 
 #spanId {
     font-size: 18px; margin: 50px;
+}
+
+body {
+    background-image: url(https://serturista.com/wp-content/uploads/2015/04/Casa-de-los-Azulejos-2.webp);
+    margin: 0;  
+}
+
+div {
+    width: 400px;
+    background-color: antiquewhite;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0rem;
+    text-align: center;
+    border: 8px solid coral;
 }
